@@ -2,6 +2,6 @@
 <manifest>
 
   <remote name="ghb" fetch="ssh://git@github.com"/>
-  <project path="EpubCreator" remote="ghb" name"BadWolf314/EpubCreator" revision="master" upstream="master" />
+  <project path="EpubCreator" remote="ghb" name="BadWolf314/EpubCreator" revision="master" upstream="master" />
  
  </manifest>
